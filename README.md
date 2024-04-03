@@ -62,10 +62,7 @@ Developed by:Pavithra P
 RegisterNumber:212223110035
 */
 ```
-/* Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
-Developed by: Meenu.S
-RegisterNumber: 212223230124
-*/
+
 
 module FullAddSub(a,b,c,sum,carry,D,BO);
 input a,b,c;
